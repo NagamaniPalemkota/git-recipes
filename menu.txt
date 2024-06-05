@@ -1,0 +1,7 @@
+Breakfast menu:
+
+    Idly
+    Dosa
+    Poori
+    Vada
+    Pongal
