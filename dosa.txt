@@ -1,4 +1,5 @@
 Ingredients:
         Batter
-        Oil
+        Ghee
         Onions
+        Podi
