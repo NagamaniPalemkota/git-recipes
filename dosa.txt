@@ -1,5 +1,6 @@
 Ingredients:
         Batter
-        Oil
         Potato masala
+        Ghee
+        3 eggs
         karam
